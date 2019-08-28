@@ -1,6 +1,6 @@
-# PRACTICAS-VLSI
+# PRÁCTICA-1: Contador binario de 8 bits
 
-En este repositorio se encuentran los códigos de las prácticas de laboratorio de VLSI
+Diseñar un contador binario de 8 bits, que disponga de un botón de reset y otro de inicio-paro.
 
 Equipo:
 Castillo Del Valle Gabriela Aideé,
