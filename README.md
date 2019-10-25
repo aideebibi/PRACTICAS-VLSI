@@ -1,5 +1,5 @@
 # Propuesta de proyecto
-Robot wall-e
+Diseñar y construir un brazo robótico que siga una secuencia de pasos ya programada, con el fin de que realice una tarea específica
 
 # Equipo:
 Castillo Del Valle Gabriela Aideé,
