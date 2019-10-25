@@ -10,3 +10,4 @@ Valdés Vargas Rocío Montserrat
 Simular el almacenamiento y funcionamniento de una memoria ROM
 
 # Video:
+https://youtu.be/pv-Hx5A2PPI
