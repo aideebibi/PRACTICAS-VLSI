@@ -1,4 +1,4 @@
-# PRACTICA-7: Métodos de direccionamiento
+# PRACTICA-9: UART
 
 # Equipo:
 Castillo Del Valle Gabriela Aideé,
@@ -7,6 +7,7 @@ Landín Martínez Uri Raquel,
 Valdés Vargas Rocío Montserrat
 
 # Descripción:
-Dada una carta ASM, crear dos programas simulando dos métodos de direccionamiento diferentes (trayectoria y entrada-estado).
+Implementar el protocolo UART
 
 # Video:
+https://www.youtube.com/watch?v=KVSDxQ8fI98&rel=0
