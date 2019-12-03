@@ -1,5 +1,8 @@
 # Propuesta de proyecto
-Diseñar y construir un brazo robótico que siga una secuencia de pasos ya programada, con el fin de que realice una tarea específica
+Diseñar y construir una máquina que consiste en agarrar peluches.
+
+# Nombre del Proyecto
+Crazy Toy 3
 
 # Equipo:
 Castillo Del Valle Gabriela Aideé,
