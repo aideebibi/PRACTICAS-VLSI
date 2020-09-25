@@ -1,7 +1,7 @@
 # PRACTICAS-VLSI
 
 - Códigos de las prácticas de laboratorio de VLSI.
-- Profesor: Giovanni 
+- Profesor: Dr. Roberto Giovanni Ramírez Chavarría 
 - Facultad de Ingeniería
 - UNAM
 
